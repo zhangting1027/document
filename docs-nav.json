@@ -1,0 +1,18 @@
+{
+    "items": [
+      {
+        "text": "Quick Start",
+        "path": "arry.md",
+        "items": [
+          {
+            "text": "With single-layer solution",
+            "path": "laofoye/docs/about.md"
+          },
+          {
+            "text": "With layered architecture",
+            "path": "laofoye/docs/index.md"
+          }
+        ]
+      }
+    ]
+}
