@@ -1,0 +1,8 @@
+site_name: 产品
+site_url: https://example.com/
+nav:
+    - 微商城: 微商城.md
+    - 派样机: 派样机.md
+    - 气球机: 气球机.md
+    - 信息发布: 信息发布.md
+theme: readthedocs

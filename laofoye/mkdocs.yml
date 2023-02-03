@@ -1,7 +1,0 @@
-site_name: 老佛爷相关文档
-site_url: https://example.com/
-nav:
-    - Home: index.md
-    - 老佛爷小程序发布文档: about.md
-    - 后台操作文档: sensingstore.md
-theme: readthedocs

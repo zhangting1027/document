@@ -1,0 +1,8 @@
+site_name: 超声波
+site_url: https://example.com/
+nav:
+    - 扫描软件介绍: Scan.md
+    - 安装: Install.md
+    - 轴配置: Axis.md
+    - 分析软件: Analysis.md
+theme: readthedocs
